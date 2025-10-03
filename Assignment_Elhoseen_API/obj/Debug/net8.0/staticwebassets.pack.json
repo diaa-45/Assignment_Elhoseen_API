@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\deyaa\\source\\repos\\Assignment_Elhoseen_API\\Assignment_Elhoseen_API\\wwwroot\\products\\a823886e-d7f4-45ec-a3ce-dac8d2740c9d_relme.jpg",
+      "PackagePath": "staticwebassets\\products\\a823886e-d7f4-45ec-a3ce-dac8d2740c9d_relme.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deyaa\\source\\repos\\Assignment_Elhoseen_API\\Assignment_Elhoseen_API\\wwwroot\\products\\cc06deb0-1bf8-4625-b99f-b34b723e450d_relme.jpg",
+      "PackagePath": "staticwebassets\\products\\cc06deb0-1bf8-4625-b99f-b34b723e450d_relme.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Assignment_Elhoseen_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Assignment_Elhoseen_API.props",
+      "PackagePath": "build\\Assignment_Elhoseen_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment_Elhoseen_API.props",
+      "PackagePath": "buildMultiTargeting\\Assignment_Elhoseen_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Assignment_Elhoseen_API.props",
+      "PackagePath": "buildTransitive\\Assignment_Elhoseen_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assignment_Elhoseen_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fe7dbf1f147173d44af0d233f13853d37c4b860")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assignment_Elhoseen_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assignment_Elhoseen_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

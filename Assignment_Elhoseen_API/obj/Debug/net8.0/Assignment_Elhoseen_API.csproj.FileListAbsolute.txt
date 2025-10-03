@@ -124,6 +124,7 @@ C:\Users\deyaa\source\repos\Assignment_Elhoseen_API\Assignment_Elhoseen_API\obj\
 C:\Users\deyaa\source\repos\Assignment_Elhoseen_API\Assignment_Elhoseen_API\obj\Debug\net8.0\Assignment_Elhoseen_API.csproj.CoreCompileInputs.cache
 C:\Users\deyaa\source\repos\Assignment_Elhoseen_API\Assignment_Elhoseen_API\obj\Debug\net8.0\Assignment_Elhoseen_API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\deyaa\source\repos\Assignment_Elhoseen_API\Assignment_Elhoseen_API\obj\Debug\net8.0\Assignment_Elhoseen_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\deyaa\source\repos\Assignment_Elhoseen_API\Assignment_Elhoseen_API\obj\Debug\net8.0\Assignment_Elhoseen_API.sourcelink.json
 C:\Users\deyaa\source\repos\Assignment_Elhoseen_API\Assignment_Elhoseen_API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\deyaa\source\repos\Assignment_Elhoseen_API\Assignment_Elhoseen_API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\deyaa\source\repos\Assignment_Elhoseen_API\Assignment_Elhoseen_API\obj\Debug\net8.0\staticwebassets\msbuild.Assignment_Elhoseen_API.Microsoft.AspNetCore.StaticWebAssets.props
