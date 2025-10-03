@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Assignment_Elhoseen_API.props" />
+</Project>

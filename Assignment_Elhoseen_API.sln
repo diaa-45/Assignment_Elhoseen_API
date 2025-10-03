@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Elhoseen_API", "Assignment_Elhoseen_API\Assignment_Elhoseen_API.csproj", "{0BA4A1D1-92F6-4395-A452-06E028BEB055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA4A1D1-92F6-4395-A452-06E028BEB055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA4A1D1-92F6-4395-A452-06E028BEB055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA4A1D1-92F6-4395-A452-06E028BEB055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA4A1D1-92F6-4395-A452-06E028BEB055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33FDB0AA-BC5B-4471-AC5C-34AF9C54480C}
+	EndGlobalSection
+EndGlobal

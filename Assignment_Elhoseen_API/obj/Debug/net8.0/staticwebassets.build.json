@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "XyqwDlvDwTazN3/3P1+DPwgHohAaBOdrIj/RepHpd70=",
+  "Source": "Assignment_Elhoseen_API",
+  "BasePath": "_content/Assignment_Elhoseen_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment_Elhoseen_API\\wwwroot",
+      "Source": "Assignment_Elhoseen_API",
+      "ContentRoot": "C:\\Users\\deyaa\\source\\repos\\Assignment_Elhoseen_API\\Assignment_Elhoseen_API\\wwwroot\\",
+      "BasePath": "_content/Assignment_Elhoseen_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
