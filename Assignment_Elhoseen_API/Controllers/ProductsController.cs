@@ -25,7 +25,6 @@ namespace EcommerceAPI.Controllers
         }
 
         [HttpGet]
-        [AllowAnonymous]
         public async Task<IActionResult> GetAll()
         {
             var result = await _productService.GetAllAsync();
@@ -33,7 +32,6 @@ namespace EcommerceAPI.Controllers
         }
 
         [HttpGet("{id}")]
-        [AllowAnonymous]
         public async Task<IActionResult> GetById(int id)
         {
             var result = await _productService.GetByIdAsync(id);
